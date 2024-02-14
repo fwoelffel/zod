@@ -185,89 +185,133 @@ Sponsorship at any level is appreciated and encouraged. For individual developer
 <table>
   <tr>
     <td align="center">
-      <a href="https://astro.build/">
-        <img src="https://avatars.githubusercontent.com/u/44914786?s=200&v=4" width="200px;" alt="Astro" />
+      <a href="https://speakeasyapi.dev/" target="_blank">
+        <img src="https://avatars.githubusercontent.com/u/91446104?s=200&v=4" width="200px;" alt="Speakeasy API" />
       </a>
       <br />
-      <b>Astro</b>
+      <b>Speakeasy</b>
       <br />
-      <a href="https://astro.build">astro.build</a>
+      <a href="https://speakeasyapi.dev/" target="_blank">speakeasyapi.dev</a>
       <br />
-      <p width="200px">
-        Astro is a new kind of static <br/>
-        site builder for the modern web. <br/>
-        Powerful developer experience meets <br/>
-        lightweight output.</p>
+      <p width="200px">SDKs, Terraform, Docs.<br/>Your API made enterprise-ready</p>
     </td>
     <td align="center">
-      <a href="https://glow.app/">
-        <img src="https://i.imgur.com/R0R43S2.jpg" width="200px;" alt="" />
-      </a>
-      <br />
-      <b>Glow Wallet</b>
-      <br />
-      <a href="https://glow.app/">glow.app</a>
-      <br />
-      <p width="200px">Your new favorite
-        <br/>
-      Solana wallet.</p>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://deletype.com/">
+      <a href="https://deletype.com/" target="_blank">
         <img src="https://avatars0.githubusercontent.com/u/15068039?s=200&v=4" width="200px;" alt="Deletype logo" />
       </a>
       <br />
       <b>Deletype</b>
       <br />
-      <a href="https://deletype.com">deletype.com</a>
-    </td>
-    <td align="center">
-      <a href="https://proxy.com/">
-        <img src="https://avatars.githubusercontent.com/u/14321439?s=200&v=4" width="200px;" alt="Proxy logo" />
-      </a>
-      <br />
-      <b>Proxy</b>
-      <br />
-      <a href="https://proxy.com">proxy.com</a>
+      <a href="https://deletype.com" target="_blank">deletype.com</a>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <a href="https://trigger.dev/">
+      <a href="https://trigger.dev/" target="_blank">
         <img src="https://avatars.githubusercontent.com/u/95297378?s=200&v=4" width="200px;" alt="Trigger.dev logo" />
       </a>
       <br />
       <b>Trigger.dev</b>
       <br />
-      <a href="https://trigger.dev">trigger.dev</a>
+      <a href="https://trigger.dev" target="_blank">trigger.dev</a>
       <br/>
-      <p>Effortless automation for developers.</p>
+      <p>Effortless automation for developers</p>
     </td>
     <td align="center">
-      <a href="https://transloadit.com/">
+      <a href="https://transloadit.com/?utm_source=zod&utm_medium=referral&utm_campaign=sponsorship&utm_content=github" target="_blank">
         <img src="https://avatars.githubusercontent.com/u/125754?s=200&v=4" width="200px;" alt="Transloadit logo" />
       </a>
       <br />
       <b>Transloadit</b>
       <br />
-      <a href="https://transloadit.com">transloadit.com</a>
+      <a href="https://transloadit.com/?utm_source=zod&utm_medium=referral&utm_campaign=sponsorship&utm_content=github" target="_blank">transloadit.com</a>
       <br/>
-      <p>Simple file processing for developers.</p>
+      <p>Simple file processing for developers</p>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <a href="https://infisical.com">
+      <a href="https://infisical.com" target="_blank">
         <img src="https://avatars.githubusercontent.com/u/107880645?s=200&v=4" width="200px;" alt="Infisical logo" />
       </a>
       <br />
       <b>Infisical</b>
       <br />
-      <a href="https://infisical.com">infisical.com</a>
+      <a href="https://infisical.com" target="_blank">infisical.com</a>
       <br/>
-      <p>Open-source platform for secret<br/>management: sync secrets across your<br/>team/infrastructure and prevent secret leaks.</p>
+      <p>Open-source platform for secret<br/>management: sync secrets across your<br/>team/infrastructure and prevent secret leaks</p>
+    </td>
+    <td align="center">
+      <a href="https://whop.com/" target="_blank">
+        <img src="https://avatars.githubusercontent.com/u/91036480?s=200&v=4" width="200px;" alt="Whop logo" />
+      </a>
+      <br />
+      <b>Whop</b>
+      <br />
+      <a href="https://whop.com/" target="_blank">whop.com</a>
+      <br />
+      <p width="200px">A marketplace for really cool internet products</p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://cryptojobslist.com/" target="_blank">
+        <img src="https://avatars.githubusercontent.com/u/36402888?s=200&v=4" width="200px;" alt="CryptoJobsList logo" />
+      </a>
+      <br />
+      <b>CryptoJobsList</b>
+      <br />
+      <a href="https://cryptojobslist.com/" target="_blank">cryptojobslist.com</a>
+      <br />
+      <p width="200px">The biggest list of crypto, blockchain and Web3 jobs</p>
+    </td>
+    <td align="center">
+      <a href="https://plain.com/" target="_blank">
+        <img src="https://avatars.githubusercontent.com/u/70170949?s=200&v=4" width="200px;" alt="Plain logo" />
+      </a>
+      <br />
+      <b>Plain.</b>
+      <br />
+      <a href="https://plain.com/" target="_blank">plain.com</a>
+      <br />
+      <p width="200px">How developers support their users</p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://inngest.com/" target="_blank">
+        <img src="https://avatars.githubusercontent.com/u/78935958?s=200&v=4" width="200px;" alt="Inngest logo" />
+      </a>
+      <br />
+      <b>Inngest</b>
+      <br />
+      <a href="https://inngest.com/" target="_blank">inngest.com</a>
+      <br />
+      <p width="200px">Serverless queues + durable workflows for TypeScript</p>
+    </td>
+    <td align="center">
+      <a href="https://storyblok.com/" target="_blank">
+        <img src="https://avatars.githubusercontent.com/u/13880908?s=200&v=4" width="200px;" alt="Storyblok CMS" />
+      </a>
+      <br />
+      <b>Storyblok</b>
+      <br />
+      <a href="https://storyblok.com/" target="_blank">storyblok.com</a>
+      <br />
+      <p width="200px">The only headless CMS with a visual editor</p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://mux.link/zod" target="_blank">
+        <img src="https://avatars.githubusercontent.com/u/16199997?s=200&v=4" width="200px;" alt="Mux logo" />
+      </a>
+      <br />
+      <b>Mux</b>
+      <br />
+      <a href="https://mux.link/zod" target="_blank">mux.com</a>
+      <br />
+      <p width="200px">The internet's video infrastructure</p>
     </td>
   </tr>
 </table>
@@ -276,63 +320,52 @@ Sponsorship at any level is appreciated and encouraged. For individual developer
 
 <table>
   <tr>
-   <td align="center" colspan="2">
-      <a href="https://www.numeric.io">
+    <td align="center" colspan="2">
+      <a href="https://www.numeric.io" target="_blank">
         <img src="https://i.imgur.com/kTiLtZt.png" width="250px;" alt="Numeric logo" />
       </a>
       <br />
       <b>Numeric</b>
       <br />
-      <a href="https://www.numeric.io">numeric.io</a>
+      <a href="https://www.numeric.io" target="_blank">numeric.io</a>
     </td>
     <td align="center">
-      <a href="https://snaplet.dev">
-        <img src="https://avatars.githubusercontent.com/u/69029941?s=200&v=4" width="150px;" alt="Snaplet logo" />
-      </a>
-      <br />
-      <b>Snaplet</b>
-      <br />
-      <a href="https://snaplet.dev">snaplet.dev</a>
-    </td>
-  </tr>
-  <tr>
-   <td align="center">
-      <a href="https://marcatopartners.com/">
+      <a href="https://marcatopartners.com/" target="_blank">
         <img src="https://avatars.githubusercontent.com/u/84106192?s=200&v=4" width="150px;" alt="Marcato Partners" />
       </a>
       <br />
       <b>Marcato Partners</b>
       <br />
-      <a href="https://marcatopartners.com/">marcatopartners.com</a>
+      <a href="https://marcatopartners.com/" target="_blank">marcatopartners.com</a>
     </td>
-     <td align="center">
-      <a href="https://interval.com">
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://interval.com" target="_blank">
         <img src="https://avatars.githubusercontent.com/u/67802063?s=200&v=4" width="150px;" alt="" />
       </a>
       <br />
       <b>Interval</b>
       <br />
-      <a href="https://interval.com">interval.com</a>
+      <a href="https://interval.com" target="_blank">interval.com</a>
     </td>
     <td align="center">
-      <a href="https://seasoned.cc">
+      <a href="https://seasoned.cc" target="_blank">
         <img src="https://avatars.githubusercontent.com/u/33913103?s=200&v=4" width="150px;" alt="" />
       </a>
       <br />
       <b>Seasoned Software</b>
       <br />
-      <a href="https://seasoned.cc">seasoned.cc</a>
+      <a href="https://seasoned.cc" target="_blank">seasoned.cc</a>
     </td>
-  </tr>
-   <tr>
     <td align="center">
-      <a href="https://www.bamboocreative.nz/">
+      <a href="https://www.bamboocreative.nz/" target="_blank">
         <img src="https://avatars.githubusercontent.com/u/41406870?v=4" width="150px;" alt="Bamboo Creative logo" />
       </a>
       <br />
       <b>Bamboo Creative</b>
       <br />
-      <a href="https://www.bamboocreative.nz">bamboocreative.nz</a>
+      <a href="https://www.bamboocreative.nz" target="_blank">bamboocreative.nz</a>
     </td>
   </tr>
 </table>
@@ -342,98 +375,130 @@ Sponsorship at any level is appreciated and encouraged. For individual developer
 <table>
   <tr>
     <td align="center">
-      <a href="https://twitter.com/flybayer">
+      <a href="https://twitter.com/flybayer" target="_blank">
         <img src="https://avatars2.githubusercontent.com/u/8813276?s=460&u=4ff8beb9a67b173015c4b426a92d89cab960af1b&v=4" width="100px;" alt=""/>
       </a>
       <br />
       <b>Brandon Bayer</b>
       <br/>
-      <a href="https://twitter.com/flybayer">@flybayer</a>,
+      <a href="https://twitter.com/flybayer" target="_blank">@flybayer</a>,
       <span>creator of <a href="https://blitzjs.com">Blitz.js</a></span>
       <br />
     </td>
     <td align="center">
-      <a href="https://github.com/brabeji">
+      <a href="https://github.com/brabeji" target="_blank">
         <img src="https://avatars.githubusercontent.com/u/2237954?v=4" width="100px;" alt=""/>
       </a>
       <br />
       <b>Jiří Brabec</b>
       <br/>
-      <a href="https://github.com/brabeji">@brabeji</a>
+      <a href="https://github.com/brabeji" target="_blank">@brabeji</a>
       <br />
     </td>
      <td align="center">
-      <a href="https://twitter.com/alexdotjs">
+      <a href="https://twitter.com/alexdotjs" target="_blank">
         <img src="https://avatars.githubusercontent.com/u/459267?v=4" width="100px;" alt="" />
       </a>
       <br />
       <b>Alex Johansson</b>
       <br />
-      <a href="https://twitter.com/alexdotjs">@alexdotjs</a>
+      <a href="https://twitter.com/alexdotjs" target="_blank">@alexdotjs</a>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <a href="https://fungible.systems/">
+      <a href="https://fungible.systems/" target="_blank">
         <img src="https://avatars.githubusercontent.com/u/80220121?s=200&v=4" width="100px;" alt="Fungible Systems logo"/>
       </a>
       <br />
       <b>Fungible Systems</b>
       <br/>
-      <a href="https://fungible.systems/">fungible.systems</a>
+      <a href="https://fungible.systems/" target="_blank">fungible.systems</a>
       <br />
     </td>
     <td align="center">
-      <a href="https://adaptable.io/">
+      <a href="https://adaptable.io/" target="_blank">
         <img src="https://avatars.githubusercontent.com/u/60378268?s=200&v=4" width="100px;" alt=""/>
       </a>
       <br />
       <b>Adaptable</b>
       <br/>
-      <a href="https://adaptable.io/">adaptable.io</a>
+      <a href="https://adaptable.io/" target="_blank">adaptable.io</a>
       <br />
     </td>
     <td align="center">
-      <a href="https://www.avanawallet.com/">
+      <a href="https://www.avanawallet.com/" target="_blank">
         <img src="https://avatars.githubusercontent.com/u/105452197?s=200&v=4" width="100px;" alt="Avana Wallet logo"/>
       </a>
       <br />
       <b>Avana Wallet</b>
       <br/>
-      <a href="https://www.avanawallet.com/">avanawallet.com</a><br/>
+      <a href="https://www.avanawallet.com/" target="_blank">avanawallet.com</a><br/>
       <span>Solana non-custodial wallet</span>
       <br />
     </td>
   </tr>
   <tr>
     <td align="center">
-      <a href="https://learnwithjason.dev">
+      <a href="https://learnwithjason.dev" target="_blank">
         <img src="https://avatars.githubusercontent.com/u/66575486?s=200&v=4" width="100px;" alt="Learn with Jason logo"/>
       </a>
       <br />
       <b>Jason Lengstorf</b>
       <br/>
-      <a href="https://learnwithjason.dev/">learnwithjason.dev</a>
+      <a href="https://learnwithjason.dev/" target="_blank">learnwithjason.dev</a>
       <br />
     </td>
     <td align="center">
-      <a href="https://ill.inc/">
+      <a href="https://ill.inc/" target="_blank">
         <img src="https://avatars.githubusercontent.com/u/89107581?s=200&v=4" width="100px;" alt="Global Illumination"/>
       </a>
       <br />
       <b>Global Illumination, Inc.</b>
       <br/>
-      <a href="https://ill.inc/">ill.inc</a>
+      <a href="https://ill.inc/" target="_blank">ill.inc</a>
       <br />
     </td>
-     <td align="center">
-      <a href="https://www.masterborn.com/career?utm_source=github&utm_medium=referral&utm_campaign=zodsponsoring">
+    <td align="center">
+      <a href="https://www.masterborn.com/career?utm_source=github&utm_medium=referral&utm_campaign=zodsponsoring" target="_blank">
         <img src="https://avatars.githubusercontent.com/u/48984031?s=200&v=4" width="100px;" alt="MasterBorn logo"/>
       </a>
       <br />
       <b>MasterBorn</b>
       <br/>
-      <a href="https://www.masterborn.com/career?utm_source=github&utm_medium=referral&utm_campaign=zodsponsoring">masterborn.com</a>
+      <a href="https://www.masterborn.com/career?utm_source=github&utm_medium=referral&utm_campaign=zodsponsoring" target="_blank">masterborn.com</a>
+      <br />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/kronodeus" target="_blank">
+        <img src="https://avatars.githubusercontent.com/u/18314366?v=4" width="100px;" alt="Ryan Palmer"/>
+      </a>
+      <br />
+      <b>Ryan Palmer</b>
+      <br/>
+      <a href="https://github.com/kronodeus" target="_blank">@kronodeus</a>
+      <br />
+    </td>
+    <td align="center">
+      <a href="https://github.com/overthemike" target="_blank">
+        <img src="https://avatars.githubusercontent.com/u/223509?v=4" width="100px;" alt="Michael Sweeney"/>
+      </a>
+      <br />
+      <b>Michael Sweeney</b>
+      <br/>
+      <a href="https://github.com/overthemike" target="_blank">@overthemike</a>
+      <br />
+    </td>
+    <td align="center">
+      <a href="https://usenextbase.com/" target="_blank">
+        <img src="https://pbs.twimg.com/profile_images/1692236063409070080/28yXFtop_400x400.jpg" width="100px;" alt="Nextbase logo"/>
+      </a>
+      <br />
+      <b>Nextbase</b>
+      <br/>
+      <a href="https://usenextbase.com/" target="_blank">usenextbase.com</a>
       <br />
     </td>
   </tr>
@@ -453,6 +518,7 @@ There are a growing number of tools that are built atop or support Zod natively!
 - [`tRPC`](https://github.com/trpc/trpc): Build end-to-end typesafe APIs without GraphQL.
 - [`@anatine/zod-nestjs`](https://github.com/anatine/zod-plugins/tree/main/packages/zod-nestjs): Helper methods for using Zod in a NestJS project.
 - [`zod-endpoints`](https://github.com/flock-community/zod-endpoints): Contract-first strictly typed endpoints with Zod. OpenAPI compatible.
+-  [`zhttp`](https://github.com/evertdespiegeleer/zhttp): An OpenAPI compatible, strictly typed http library with Zod input and response validation.
 - [`domain-functions`](https://github.com/SeasonedSoftware/domain-functions/): Decouple your business logic from your framework using composable functions. With first-class type inference from end to end powered by Zod schemas.
 - [`@zodios/core`](https://github.com/ecyrbe/zodios): A typescript API client with runtime and compile time validation backed by axios and zod.
 - [`express-zod-api`](https://github.com/RobinTail/express-zod-api): Build Express-based APIs with I/O schema validation and custom middlewares.
@@ -503,6 +569,7 @@ There are a growing number of tools that are built atop or support Zod natively!
 - [`prisma-trpc-generator`](https://github.com/omar-dulaimi/prisma-trpc-generator): Emit fully implemented tRPC routers and their validation schemas using Zod.
 - [`zod-prisma-types`](https://github.com/chrishoermann/zod-prisma-types) Create Zod types from your Prisma models.
 - [`quicktype`](https://app.quicktype.io/): Convert JSON objects and JSON schemas into Zod schemas.
+- [`@sanity-typed/zod`](https://github.com/saiichihashimoto/sanity-typed/tree/main/packages/zod): Generate Zod Schemas from [Sanity Schemas](https://www.sanity.io/docs/schema-types).
 
 #### Mocking
 
@@ -523,6 +590,8 @@ There are a growing number of tools that are built atop or support Zod natively!
 #### Utilities for Zod
 
 - [`zod_utilz`](https://github.com/JacobWeisenburger/zod_utilz): Framework agnostic utilities for Zod.
+- [`zod-sandbox`](https://github.com/nereumelo/zod-sandbox): Controlled environment for testing zod schemas. [Live demo](https://zod-sandbox.vercel.app/).
+- [`zod-dev`](https://github.com/schalkventer/zod-dev): Conditionally disables Zod runtime parsing in production.
 
 ## Installation
 
@@ -647,16 +716,19 @@ Zod now provides a more convenient way to coerce primitive values.
 const schema = z.coerce.string();
 schema.parse("tuna"); // => "tuna"
 schema.parse(12); // => "12"
-schema.parse(true); // => "true"
 ```
 
-During the parsing step, the input is passed through the `String()` function, which is a JavaScript built-in for coercing data into strings. Note that the returned schema is a `ZodString` instance so you can use all string methods.
+During the parsing step, the input is passed through the `String()` function, which is a JavaScript built-in for coercing data into strings.
+
+The returned schema is a normal `ZodString` instance so you can use all string methods.
 
 ```ts
 z.coerce.string().email().min(5);
 ```
 
-All primitive types support coercion.
+**How coercion works**
+
+All primitive types support coercion. Zod coerces all inputs using the built-in constructors: `String(input)`, `Number(input)`, `new Date(input)`, etc.
 
 ```ts
 z.coerce.string(); // String(input)
@@ -666,9 +738,19 @@ z.coerce.bigint(); // BigInt(input)
 z.coerce.date(); // new Date(input)
 ```
 
+Note that some behavior may not be what you expect.
+
+```ts
+schema.parse(true); // => "true"
+schema.parse(undefined); // => "undefined"
+schema.parse(null); // => "null"
+```
+
+For more control over coercion logic, consider using [`z.preprocess`](#preprocess) or [`z.pipe()`](#pipe).
+
 **Boolean coercion**
 
-Zod's boolean coercion is very simple! It passes the value into the `Boolean(value)` function, that's it. Any truthy value will resolve to `true`, any falsy value will resolve to `false`.
+Zod's approach to coercion is very simple! It passes the value into the `Boolean(value)` function, that's it. Any truthy value will resolve to `true`, any falsy value will resolve to `false`.
 
 ```ts
 z.coerce.boolean().parse("tuna"); // => true
@@ -721,7 +803,7 @@ z.string().regex(regex);
 z.string().includes(string);
 z.string().startsWith(string);
 z.string().endsWith(string);
-z.string().datetime(); // defaults to UTC, see below for options
+z.string().datetime(); // ISO 8601; default is without UTC offset, see below for options
 z.string().ip(); // defaults to IPv4 and IPv6, see below for options
 
 // transformations
@@ -760,7 +842,7 @@ z.string().ip({ message: "Invalid IP address" });
 
 ### ISO datetimes
 
-The `z.string().datetime()` method defaults to UTC validation: no timezone offsets with arbitrary sub-second decimal precision.
+The `z.string().datetime()` method enforces ISO 8601; default is no timezone offsets and arbitrary sub-second decimal precision.
 
 ```ts
 const datetime = z.string().datetime();
@@ -965,7 +1047,7 @@ const fish = ["Salmon", "Tuna", "Trout"];
 const FishEnum = z.enum(fish);
 ```
 
-**Autocompletion**
+**`.enum`**
 
 To get autocompletion with a Zod enum, use the `.enum` property of your schema:
 
@@ -986,6 +1068,16 @@ You can also retrieve the list of options as a tuple with the `.options` propert
 
 ```ts
 FishEnum.options; // ["Salmon", "Tuna", "Trout"];
+```
+
+**`.exclude/.extract()`**
+
+You can create subsets of a Zod enum with the `.exclude` and `.extract` methods.
+
+```ts
+const FishEnum = z.enum(["Salmon", "Tuna", "Trout"]);
+const SalmonAndTrout = FishEnum.extract(["Salmon", "Trout"]);
+const TunaOnly = FishEnum.exclude(["Salmon", "Trout"]);
 ```
 
 ## Native enums
@@ -1787,7 +1879,7 @@ const TestSchema = z.instanceof(Test);
 
 const blob: any = "whatever";
 TestSchema.parse(new Test()); // passes
-TestSchema.parse("blob"); // throws
+TestSchema.parse(blob); // throws
 ```
 
 ## Functions
@@ -1893,7 +1985,7 @@ You can create a Zod schema for any TypeScript type by using `z.custom()`. This 
 
 ```ts
 const px = z.custom<`${number}px`>((val) => {
-  return /^\d+px$/.test(val as string);
+  return typeof val === "string" ? /^\d+px$/.test(val) : false;
 });
 
 type px = z.infer<typeof px>; // `${number}px`
@@ -2825,10 +2917,9 @@ This more declarative API makes schema definitions vastly more concise.
 
 [https://github.com/pelotom/runtypes](https://github.com/pelotom/runtypes)
 
-Good type inference support. They DO support readonly types, which Zod does not.
+Good type inference support.
 
 - Supports "pattern matching": computed properties that distribute over unions
-- Supports readonly types
 - Missing object methods: (deepPartial, merge)
 - Missing nonempty arrays with proper typing (`[T, ...T[]]`)
 - Missing promise schemas
