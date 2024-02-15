@@ -1986,7 +1986,7 @@ export interface ZodArrayDef<T extends ZodTypeAny = ZodTypeAny>
   maxLength: { value: number; message?: string } | null;
   uniqueness: {
     identifier?: ArrayUniqueIdentifier;
-    message?: string | ((duplicateElements: Array<unknown>) => string);
+    message?: string | ArrayMessageFunction;
     showDuplicates?: boolean;
   } | null;
 }
@@ -1998,7 +1998,10 @@ export type arrayOutputType<
 > = Cardinality extends "atleastone"
   ? [T["_output"], ...T["_output"][]]
   : T["_output"][];
-type ArrayUniqueIdentifier<T = unknown> = (o: T) => unknown;
+type ArrayMessageFunction<T extends ZodTypeAny = ZodTypeAny> = (
+  duplicateElements: Array<T["_output"]>
+) => string;
+type ArrayUniqueIdentifier<T = any> = (o: T) => unknown;
 
 export class ZodArray<
   T extends ZodTypeAny,
@@ -2114,8 +2117,8 @@ export class ZodArray<
   }
 
   _arrayUnique(
-    array: unknown[],
-    identifier?: ArrayUniqueIdentifier,
+    array: Array<T["_output"]>,
+    identifier?: ArrayUniqueIdentifier<T["_output"]>,
     showDuplicates = false
   ) {
     if (identifier) {
@@ -2155,19 +2158,11 @@ export class ZodArray<
     return this.min(1, message) as any;
   }
 
-  unique(
-    params: {
-      identifier?: ArrayUniqueIdentifier<output<T>>;
-      message?:
-        | errorUtil.ErrMessage
-        | ((duplicateElements: Array<output<T>>) => string);
-      showDuplicates?: boolean;
-    } = {}
-  ): this {
+  unique(params: ZodArrayDef<T>["uniqueness"] = {}): this {
     const message =
-      typeof params.message === "function"
+      typeof params?.message === "function"
         ? params.message
-        : errorUtil.toString(params.message);
+        : errorUtil.toString(params?.message);
 
     return new ZodArray({
       ...this._def,
